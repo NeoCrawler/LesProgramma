@@ -1,7 +1,0 @@
-C:\SourceTree\LesProgramma\LesProgramma\bin\Debug\LesProgramma.exe.config
-C:\SourceTree\LesProgramma\LesProgramma\bin\Debug\LesProgramma.exe
-C:\SourceTree\LesProgramma\LesProgramma\bin\Debug\LesProgramma.pdb
-C:\SourceTree\LesProgramma\LesProgramma\obj\Debug\LesProgramma.csprojAssemblyReference.cache
-C:\SourceTree\LesProgramma\LesProgramma\obj\Debug\LesProgramma.csproj.CoreCompileInputs.cache
-C:\SourceTree\LesProgramma\LesProgramma\obj\Debug\LesProgramma.exe
-C:\SourceTree\LesProgramma\LesProgramma\obj\Debug\LesProgramma.pdb
