@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 namespace LesProgramma
 {
     // Inherited from class <see cref="Base"/>.
-    class Player : Base
+    class Player : Object
     {
         /// Property, just to let you know of their existence ;) <see cref="Vector3"/> for better implementation usecase.
         public int Health { get; private set; } = 0;
 
-        /// Constructor inherits from class <see cref="Base"/>, base needs a position input, this must be passed by the player constructor.
+        /// Constructor inherits from class <see cref="Object"/>, base needs a position input, this must be passed by the player constructor.
         public Player(Vector3 position) : base(position) { }
 
         public override void Awake()
